@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <peopleList>
+        <person id="782">
+            <firstname>Pinco</firstname>
+            <lastname>Pallino</lastname>
+            <birthdate>1978-5-20</birthdate>
+            <healthprofile>
+                <weight>85.5</weight>
+                <height>1.72</height>
+                <lastupdate>2015-10=22</lastupdate>
+                <bmi>28.9007571660357</bmi>
+            </healthprofile>
+        </person>
+        <person id="1">
+            <firstname>Shumet</firstname>
+            <lastname>Tadesse</lastname>
+            <birthdate>1987-09-15</birthdate>
+            <healthprofile>
+                <weight>85.5</weight>
+                <height>1.72</height>
+                <lastupdate>2015-10=22</lastupdate>
+                <bmi>28.9007571660357</bmi>
+            </healthprofile>
+        </person>
+        <person id="2">
+            <firstname>Birtukan</firstname>
+            <lastname>Getahun</lastname>
+            <birthdate>1991-02-16</birthdate>
+            <healthprofile>
+                <weight>68.0</weight>
+                <height>1.72</height>
+                <lastupdate>2014-10-10</lastupdate>
+                <bmi>22.985397512168742</bmi>
+            </healthprofile>
+        </person>
+    </peopleList>
+</people>

@@ -1,0 +1,47 @@
+{
+  "person" : [ {
+    "firstname" : "Pinco",
+    "lastname" : "Pallino",
+    "birthdate" : "2002-11-15",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "lastupdate" : "2015-10=22",
+      "bmi" : 28.9007571660357
+    },
+    "id" : 982
+  }, {
+    "firstname" : "Ketemaw",
+    "lastname" : "Getachew",
+    "birthdate" : "1984-06-21",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "lastupdate" : "2015-10=22",
+      "bmi" : 28.9007571660357
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Bamlaku",
+    "lastname" : "Desalegn",
+    "birthdate" : "1985-03-20",
+    "healthprofile" : {
+      "weight" : 68.0,
+      "height" : 1.72,
+      "lastupdate" : "2014-10-09",
+      "bmi" : 22.985397512168742
+    },
+    "id" : 2
+  }, {
+    "firstname" : "Shumet",
+    "lastname" : "Tadesse",
+    "birthdate" : "1987-09-15",
+    "healthprofile" : {
+      "weight" : 65.0,
+      "height" : 1.65,
+      "lastupdate" : "2014-10-10",
+      "bmi" : 23.875114784205696
+    },
+    "id" : 3
+  } ]
+}
